@@ -1,0 +1,26 @@
+body {
+    background-color: #EBF4F6;
+    color: #37B7C3;
+    font-family: "Arial", "Verdana", sans-serif;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: bold;
+    color: #071952;
+}
+
+li {
+    color: #071952;
+}
+
+h2 {
+    color: #088395;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
